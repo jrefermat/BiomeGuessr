@@ -1,9 +1,9 @@
-# BiomeGuessr (play [here](https://biomeguessr.bolt.host))
+# BiomeGuessr
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built With](https://img.shields.io/badge/Built%20With-React%20%7C%20Tailwind%20CSS-purple)](#)
 
-**BiomeGuessr** is an interactive, web based geography and spatial identification game. Test your knowledge of global ecosystems, vegetation patterns, and microclimates by analyzing aerial imagery and pinpointing biomes across the globe.
+**[BiomeGuessr](https://biomeguessr.bolt.host)** is an interactive, web based geography and spatial identification game. Test your knowledge of global ecosystems, vegetation patterns, and microclimates by analyzing aerial imagery and pinpointing biomes across the globe.
 
 ---
 
