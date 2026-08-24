@@ -1,11 +1,40 @@
-# BiomeGuessr
+# BiomeGuessr (play [here](https://biomeguessr.bolt.host))
 
-An interactive geography and environmental spatial identification game. Test your knowledge of global ecosystems, vegetation patterns, and microclimates by identifying ecological biomes across the globe.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Built With](https://img.shields.io/badge/Built%20With-React%20%7C%20Tailwind%20CSS-purple)](#)
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue)](LICENSE)
-[![BUILT WITH](https://img.shields.io/badge/BUILT_WITH-REACT_%7C_TAILWIND-purple)](#)
+**BiomeGuessr** is an interactive, web based geography and spatial identification game. Test your knowledge of global ecosystems, vegetation patterns, and microclimates by analyzing aerial imagery and pinpointing biomes across the globe.
 
-## How to Play
+---
 
-* **Location Inspection:** Analyze selection of birds eye view photos to get an idea for biome and approximate location.
-* **Biome Classification:** Guess the correct ecological biome class by selecting location on the map (e.g., Tropical Rainforest, Tundra, Mediterranean Scrub).
+## Game Overview
+
+Players are given 5 distinct locations per game round. The primary objective is to accurately identify the ecological biome class while guessing as close to the target coordinates as possible on a global map.
+
+### Key Features
+* **Aerial Location Inspection:** Analyze bird's-eye photos to detect environmental cues like canopy density, soil color, and topography.
+* **Dual Mechanic Guessing:** Place a pin on the world map based on the photo's geographical features.
+* **Dynamic Scoring System:** Earn up to **25,000 points** per game. The majority of points are awarded for accurate biome classification, with bonus points awarded for proximity.
+* **Diverse Ecological Categories:** Includes biomes such as Tropical Rainforest, Tundra, Mediterranean Scrub, Boreal Forest, Temperate Grasslands, and more.
+
+---
+
+## Tech Stack
+
+* **Frontend Framework:** [React](https://reactjs.org/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons & UI Elements:** Lucide React
+* **Build Tool:** Vite / Webpack
+
+---
+
+## Run Locally
+
+Have [Node.js](https://nodejs.org/) (v16 or higher) installed on your system.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jrefermat/BiomeGuessr.git](https://github.com/jrefermat/BiomeGuessr.git)
+   cd BiomeGuessr
